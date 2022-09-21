@@ -3,8 +3,9 @@ Arduino code for a prototype balancing robot V1 using an ESP32 microcontroller
 
 Folders:
 * self_balancing_robot_V1: contains the code for the balance mode of the robot
+* **UPDATED**self_balancing_robot_V1_bc: contains the code for the bluetooth control mode of the robot
 * calibracionMPU6050:  contains a sketch to calibrate the IMU sensor (MPU6050)
-* ....
+* ... 
 
 
 The code is divided in three sections (three sketches):
